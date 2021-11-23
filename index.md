@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to TNE Pages
+
+My Name's Tanasup Eiamsoonthonchai 
 
 You can use the [editor on GitHub](https://github.com/Lab4289/known_tne/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
