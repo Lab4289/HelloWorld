@@ -1,6 +1,10 @@
-## Welcome to TNE Pages
+## Tanasup Eiamsoonthonchai
 
-My Name's Tanasup Eiamsoonthonchai 
+[116 
+soi Pracha Song-khro21 yake3
+Dindang BKK, Thailand](http://www.google.com/maps/place/13.774109,100.557783)
+Tel: +66 626 616 164
+E-mail: [tanasup.e@gmail.com](mailto:tanasup.e@gmail.com)
 
 You can use the [editor on GitHub](https://github.com/Lab4289/known_tne/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
