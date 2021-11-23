@@ -6,6 +6,28 @@ Dindang BKK, Thailand](http://www.google.com/maps/place/13.774109,100.557783)<br
 > Tel: +66 626 616 164 <br />
 > E-mail: [tanasup.e@gmail.com](mailto:tanasup.e@gmail.com) <br />
 
+## Summary
+
+## Summary of skills
+
+## Accomplishments
+
+### Programming
+
+### IT Training
+
+## Work Experience
+
+## Education
+
+## Training
+
+### Programming
+
+### Others
+
+## Volunteer
+
 You can use the [editor on GitHub](https://github.com/Lab4289/known_tne/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
