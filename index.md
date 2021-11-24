@@ -8,7 +8,7 @@ E-mail: [tanasup.e@gmail.com](mailto:tanasup.e@gmail.com)
 <br />
 
 ## Summary
-
+{{ site.time | date: '%y' }}
 ## Summary of skills
 
 ## Accomplishments
