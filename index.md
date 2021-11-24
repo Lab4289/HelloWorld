@@ -1,5 +1,3 @@
-# Tanasup Eiamsoonthonchai
-
 [116 <br />
 soi Pracha Song-khro21 yake3 <br />
 Dindang BKK, Thailand](http://www.google.com/maps/place/13.774109,100.557783)<br /><br />
