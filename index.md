@@ -8,7 +8,7 @@ E-mail: [tanasup.e@gmail.com](mailto:tanasup.e@gmail.com)
 <br />
 
 ## Summary
-{{ site.time | date: '%y' }}
+Software Engineer with 13+ years in analysis, design, development, testing and implementation of oracle-base applications.
 ## Summary of skills
 
 ## Accomplishments
